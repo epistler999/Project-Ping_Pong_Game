@@ -1,1 +1,1 @@
-# A Simple Ping Pong Game made using HTML5,CSS and Javascript
+# Ping Pong Game using HTML5,CSS and Javascript
